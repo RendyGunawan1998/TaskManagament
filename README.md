@@ -1,5 +1,7 @@
 # TaskManagament
 
+# Please check readme
+
 Fitur:
 
 - SlideAble Action : berisi fitur slide yang memberikan menu untuk update data dan delete data
